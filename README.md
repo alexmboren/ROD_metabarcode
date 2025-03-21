@@ -1,1 +1,1 @@
-# ROD_metabarcode
+# ROD beetles metabarcoding project
